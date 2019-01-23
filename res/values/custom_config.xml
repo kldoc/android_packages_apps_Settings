@@ -23,7 +23,7 @@
        3 = right side
     -->
     <integer name="config_fingerprintSensorLocation">0</integer>
-
+    
     <bool name="config_show_color_mode">true</bool>
 
     <!-- Does the device allow for manual subscription provisioning? Only works for multi-sim devices,
